@@ -4,7 +4,7 @@
 - 🏛️ Former Historian, but overly passionate about technology and coding 
 - 🏕️As a side note, I love spending time outdoors, biking, hiking, or camping with my favorite pals
 - 🚀 Follow me through my journey as I experiment and become a programmer
-- 📫 You can reach me through my [Linkedin](www.linkedin.com/in/natália-medeiros-costa) page
+- 📫 You can reach me through my [Linkedin](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) page
 
 ### :fire: My Stats :
 
