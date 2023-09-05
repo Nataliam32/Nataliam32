@@ -1,4 +1,4 @@
-✨ Hello there, and welcome to my GitHub profile: ✨
+ Hello there, and welcome to my GitHub profile: 
 
 - 💻 I’m currently studying to become a Fullstack Developer at Kenzie Academy
 - 🏛️ Former Historian, but overly passionate about technology and coding 
